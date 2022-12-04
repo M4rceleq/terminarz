@@ -1,0 +1,2 @@
+# Terminarz
+*readme in progress*
