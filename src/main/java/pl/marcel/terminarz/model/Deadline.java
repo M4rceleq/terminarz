@@ -1,4 +1,4 @@
-package pl.marcel.plan_elektronik.model;
+package pl.marcel.terminarz.model;
 
 import java.util.Date;
 

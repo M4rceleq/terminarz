@@ -1,10 +1,10 @@
-package pl.marcel.plan_elektronik.repository;
+package pl.marcel.terminarz.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import pl.marcel.plan_elektronik.model.Deadline;
+import pl.marcel.terminarz.model.Deadline;
 
 import java.util.List;
 

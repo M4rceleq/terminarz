@@ -1,9 +1,9 @@
-package pl.marcel.plan_elektronik.controller;
+package pl.marcel.terminarz.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import pl.marcel.plan_elektronik.model.Deadline;
-import pl.marcel.plan_elektronik.repository.DeadlineRepository;
+import pl.marcel.terminarz.model.Deadline;
+import pl.marcel.terminarz.repository.DeadlineRepository;
 
 import java.util.List;
 
